@@ -1,0 +1,45 @@
+# Project exclude paths
+/.gradle/
+/Cinema Room Manager/task/build/
+/Cinema Room Manager/task/out/
+/Cinema Room Manager/task/out/production/classes/
+/Topics/Errors in programs/What's wrong/out/
+/Topics/Errors in programs/What's wrong/out/production/classes/
+/Topics/Floating-point types/Liquid pressure/out/
+/Topics/Floating-point types/Liquid pressure/out/production/classes/
+/Topics/For loop and lists/Individual taxes/out/
+/Topics/For loop and lists/Individual taxes/out/production/classes/
+/Topics/For loop and lists/Number in a set/out/
+/Topics/For loop and lists/Number in a set/out/production/classes/
+/Topics/For loop and lists/The index of the first max/out/
+/Topics/For loop and lists/The index of the first max/out/production/classes/
+/Topics/For loop and lists/Two numbers in a row/out/
+/Topics/For loop and lists/Two numbers in a row/out/production/classes/
+/Topics/Hierarchy of exceptions/Fix the code/out/
+/Topics/Hierarchy of exceptions/Fix the code/out/production/classes/
+/Topics/Hierarchy of exceptions/RuntimeException/out/
+/Topics/Hierarchy of exceptions/RuntimeException/out/production/classes/
+/Topics/Multi-dimensional list/Accordance/out/
+/Topics/Multi-dimensional list/Accordance/out/production/classes/
+/Topics/Multi-dimensional list/Corners/out/
+/Topics/Multi-dimensional list/Corners/out/production/classes/
+/Topics/Multi-dimensional list/Cube of zeros/out/
+/Topics/Multi-dimensional list/Cube of zeros/out/production/classes/
+/Topics/Multi-dimensional list/Kotlin lists/out/
+/Topics/Multi-dimensional list/Kotlin lists/out/production/classes/
+/Topics/Multi-dimensional list/Shapeshifter/out/
+/Topics/Multi-dimensional list/Shapeshifter/out/production/classes/
+/Topics/Taming exceptions/Handle arithmetic exception/out/
+/Topics/Taming exceptions/Handle arithmetic exception/out/production/classes/
+/Topics/The try-catch-finally statement/Braking distance/out/
+/Topics/The try-catch-finally statement/Braking distance/out/production/classes/
+/Topics/The try-catch-finally statement/Parting words/out/
+/Topics/The try-catch-finally statement/Parting words/out/production/classes/
+/Topics/When expression/Just checking/out/
+/Topics/When expression/Just checking/out/production/classes/
+/Topics/When expression/The number of digits/out/
+/Topics/When expression/The number of digits/out/production/classes/
+/Topics/Work with MutableLists/Help the Lord Commander/out/
+/Topics/Work with MutableLists/Help the Lord Commander/out/production/classes/
+/Topics/Work with MutableLists/Playing with numbers/out/
+/Topics/Work with MutableLists/Playing with numbers/out/production/classes/
